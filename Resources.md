@@ -1,6 +1,9 @@
 ## Database
 https://www.youtube.com/watch?v=oeYBdghaIjc&list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi&index=2&t=0s
 
+## Distributed system
+Nice summary : http://book.mixu.net/distsys/single-page.html
+
 
 http://lass.cs.umass.edu/~shenoy/courses/spring19/lectures/
 
