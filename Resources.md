@@ -1,3 +1,7 @@
+## Database
+https://www.youtube.com/watch?v=oeYBdghaIjc&list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi&index=2&t=0s
+
+
 http://lass.cs.umass.edu/~shenoy/courses/spring19/lectures/
 
 Netflix tech blog, Uber, Twitter, Airbnb engineering blogs are high quality and are constantly updated.
