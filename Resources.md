@@ -1,5 +1,13 @@
 http://lass.cs.umass.edu/~shenoy/courses/spring19/lectures/
 
+Netflix tech blog, Uber, Twitter, Airbnb engineering blogs are high quality and are constantly updated.
+There are a lot of great Youtube videos (append to youtube.com).
+Jeff Dean's talk at Stanford: /watch?v=modXC5IWTJI
+Building Billion user Load Balancer at Facebook: /watch?v=bxhYNfFeVF4
+Netflix Guide to Microservices: /watch?v=CZ3wIuvmHeM
+Amazon DynamoDB deep dive: /watch?v=HaEPXoXVf2k
+
+
 ◤
 ## Causal ordering
 Causal ordering is a vital tool for thinking about distributed systems. Once you understand it, many other concepts become much simpler.
