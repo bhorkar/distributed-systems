@@ -16,6 +16,10 @@ Loadbalancing,
 
 Sharding
 
+## Web architecture
+http://oak.cs.ucla.edu/classes/cs246/schedule.html
+
+
 ## Database
 https://www.youtube.com/watch?v=oeYBdghaIjc&list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi&index=2&t=0s
 
