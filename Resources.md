@@ -1,12 +1,19 @@
 # My SCANDaLS
 
-Mapreduce,
+Mapreduce
+
 Scaling,
+
 Caching,
+
 Asynchronous Processing,
+
 Network metrics,
+
 Database denormalization,
+
 Loadbalancing,
+
 Sharding
 
 ## Database
