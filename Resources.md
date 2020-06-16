@@ -1,19 +1,12 @@
 # My SCANDaLS
 
 Mapreduce
-
 Scaling,
-
 Caching,
-
 Asynchronous Processing,
-
 Network metrics,
-
 Database denormalization,
-
 Loadbalancing,
-
 Sharding
 
 ## Web architecture
@@ -24,8 +17,12 @@ http://oak.cs.ucla.edu/classes/cs246/schedule.html
 https://www.youtube.com/watch?v=oeYBdghaIjc&list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi&index=2&t=0s
 
 ## Distributed system
-Nice summary : http://book.mixu.net/distsys/single-page.html
+Nice summary : 
+http://book.mixu.net/distsys/single-page.html
 
+
+https://columbia.github.io/ds1-class/01-lectures/ (read the lectures) 
+https://courses.cs.washington.edu/courses/csep552/18wi/
 
 http://lass.cs.umass.edu/~shenoy/courses/spring19/lectures/
 
