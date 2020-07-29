@@ -19,6 +19,7 @@ https://www.youtube.com/watch?v=oeYBdghaIjc&list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjy
 ## Distributed system
 Nice summary : 
 - http://book.mixu.net/distsys/single-page.html
+![CAP theorem](http://book.mixu.net/distsys/images/CAP.png)
 - https://columbia.github.io/ds1-class/01-lectures/ (read the lectures) 
 - https://courses.cs.washington.edu/courses/csep552/18wi/
 - Consensus(https://www2.cs.duke.edu/courses/fall07/cps212/consensus.pdf)
