@@ -18,13 +18,11 @@ https://www.youtube.com/watch?v=oeYBdghaIjc&list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjy
 
 ## Distributed system
 Nice summary : 
-http://book.mixu.net/distsys/single-page.html
-
-
-https://columbia.github.io/ds1-class/01-lectures/ (read the lectures) 
-https://courses.cs.washington.edu/courses/csep552/18wi/
-
-http://lass.cs.umass.edu/~shenoy/courses/spring19/lectures/
+- http://book.mixu.net/distsys/single-page.html
+- https://columbia.github.io/ds1-class/01-lectures/ (read the lectures) 
+- https://courses.cs.washington.edu/courses/csep552/18wi/
+- Consensus(https://www2.cs.duke.edu/courses/fall07/cps212/consensus.pdf)
+- http://lass.cs.umass.edu/~shenoy/courses/spring19/lectures/
 
 Netflix tech blog, Uber, Twitter, Airbnb engineering blogs are high quality and are constantly updated.
 There are a lot of great Youtube videos (append to youtube.com).
