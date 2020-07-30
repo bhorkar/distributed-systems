@@ -19,6 +19,7 @@ https://www.youtube.com/watch?v=oeYBdghaIjc&list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjy
 ## Distributed system
 Nice summary : 
 - http://book.mixu.net/distsys/single-page.html
+- Cassandra (eventually last-writer-wins) 
 ![CAP theorem](http://book.mixu.net/distsys/images/CAP.png)
 - https://columbia.github.io/ds1-class/01-lectures/ (read the lectures) 
 - https://courses.cs.washington.edu/courses/csep552/18wi/
