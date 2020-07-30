@@ -19,8 +19,11 @@ https://www.youtube.com/watch?v=oeYBdghaIjc&list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjy
 ## Distributed system
 Nice summary : 
 - http://book.mixu.net/distsys/single-page.html
-- Cassandra (eventually last-writer-wins) 
+-- Cassandra (eventually last-writer-wins).
+-- Cassandra uses phi failiure detector to know if partition has happened. The value of phi is calculated as: phi = -log10(1 - F(timeSinceLastHeartbeat))
+
 ![CAP theorem](http://book.mixu.net/distsys/images/CAP.png)
+
 - https://columbia.github.io/ds1-class/01-lectures/ (read the lectures) 
 - https://courses.cs.washington.edu/courses/csep552/18wi/
 - Consensus(https://www2.cs.duke.edu/courses/fall07/cps212/consensus.pdf)
