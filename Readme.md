@@ -13,8 +13,9 @@ Sharding
 http://oak.cs.ucla.edu/classes/cs246/schedule.html
 
 
-## Database
-https://www.youtube.com/watch?v=oeYBdghaIjc&list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi&index=2&t=0s
+## Database Courses
+- (DBMS) https://www.youtube.com/watch?v=oeYBdghaIjc&list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi&index=2&t=0s
+- (distributed system) https://www.cs.princeton.edu/courses/archive/fall16/cos418/docs/L13-strong-cap.pdf
 
 ## Distributed system
 Nice summary : 
