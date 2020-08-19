@@ -16,13 +16,14 @@ http://oak.cs.ucla.edu/classes/cs246/schedule.html
 ## Database Courses
 - (DBMS) https://www.youtube.com/watch?v=oeYBdghaIjc&list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi&index=2&t=0s
 - (distributed system) https://www.cs.princeton.edu/courses/archive/fall16/cos418/docs/L13-strong-cap.pdf
+- (basics) http://cs.brown.edu/courses/cs138/s20/syllabus.html
 
 ## Distributed system
 Nice summary : 
 - http://book.mixu.net/distsys/single-page.html
 -- Cassandra (eventually last-writer-wins).
 -- Cassandra uses phi failiure detector to know if partition has happened. The value of phi is calculated as: phi = -log10(1 - F(timeSinceLastHeartbeat))
-
+-- 
 ![CAP theorem](http://book.mixu.net/distsys/images/CAP.png)
 
 - https://columbia.github.io/ds1-class/01-lectures/ (read the lectures) 
